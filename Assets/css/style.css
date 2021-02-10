@@ -1,0 +1,69 @@
+/*
+Estilos da Página index.html
+*/
+
+.center {
+    text-align: center;
+}
+
+.p1 {
+    font-size: 16px;
+    text-align: justify;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.container {
+    text-align: justify;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: #E85A17;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: #D1721F
+}
+
+.p30 {
+    padding: 30px;
+}
+
+.rei {
+    border-radius: 50%;
+}
+
+.wh {
+    width: 500px;
+    height: 500px;
+    padding: 15px;
+}
+
+.tm-social {
+    width: 50px;
+    height: 50px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+
+/*Estilos da pagina contato.html*/
+
+.ml-50 {
+    margin-left: 50px;
+}
